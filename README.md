@@ -11,4 +11,4 @@ Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one
 * I have initially parsed two columns(categories and votes) of the datasets since they existed as a dictionary.
 * The data was then cleaned since there existed null values in the 'categories' column.
 * Since both the columns were parsed separately, merging was required.
-* Once the dataset was ready, we visualised and brough meaningful insights from the given data.
+* Once the dataset was ready, I visualised and brought meaningful insights from the given data.
